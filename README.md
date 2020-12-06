@@ -15,6 +15,24 @@ Download the python script and open it from your working directory. This is the 
 
 <img src="images/findpagenumber.png" alt="screenshot of where the page number is found on the package repository page">
 
+Find the current number of conda pages and place this value within the first parameter of the extractBioCondaData() function call within the main function (line 67). This will ensure that all the packages are pulled down from the conda repository. 
+
+Run the program and ensure that the database is generated. 
+
+Open Terminal. If necessary install homebrew, datasette and heroku CLI (command line interface). 
+
+Log into your Heroku account with the "heroku login" command.
+
+Utilize the "datasette publish heroku mydatabase.db" command (replacing mydatabase.db with your database name) in order to publish the dataset to the cloud. Include the "-n my-app-name" flag on the end of the command in order to give your project a custom name. Once this has finished running you will be provided with a link where your database search applet is availiable. 
+
+## Datasette Applet
+
+See this page for example Datasette Applets: <a href="https://github.com/simonw/datasette/wiki/Datasettes">examples</a>
+
+The interface includes many different data outputs and custom SQL search features. The easiest way to search summaries is shown in the following screenshot (should be located two clicks into the table).
+
+
+
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
