@@ -13,7 +13,7 @@ You can sign up for a free Heroku account for hosting at <a href="https://www.he
 ## Instructions
 Download the python script and open it from your working directory. This is the folder where you want the database file to be saved. 
 
-<img src="images/.png" alt="screenshot of where the page number is found on the package repository page">
+<img src="images/findpagenumber.png" alt="screenshot of where the page number is found on the package repository page">
 
 <br />
 <p align="center">
