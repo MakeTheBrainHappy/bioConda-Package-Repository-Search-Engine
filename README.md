@@ -31,26 +31,4 @@ See this page for example Datasette Applets: <a href="https://github.com/simonw/
 
 The interface includes many different data outputs and custom SQL search features. The easiest way to search summaries is shown in the following screenshot (should be located two clicks into the table).
 
-
-
-<br />
-<p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
-</p>
+<img src="images/applet_search.png" alt="screenshot of how to search the datasette applet">
