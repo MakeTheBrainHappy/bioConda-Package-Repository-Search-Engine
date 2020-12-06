@@ -10,7 +10,10 @@ In order to run the Python Script you will need an up-to-date version of Python 
 ## Required Accounts
 You can sign up for a free Heroku account for hosting at <a href="https://www.heroku.com/">heroku.com</a>. The account will come with 550 free dyno hours per month which can cover approx. 70-80% of the month for continous usage. 
 
+## Instructions
+Download the python script and open it from your working directory. This is the folder where you want the database file to be saved. 
 
+<img src="images/.png" alt="screenshot of where the page number is found on the package repository page">
 
 <br />
 <p align="center">
