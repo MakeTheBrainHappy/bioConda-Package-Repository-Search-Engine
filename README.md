@@ -1,6 +1,8 @@
 # bioConda Package Repository Search Engine
 A tutorial on how to produce your own bioConda package repository search engine
 
+[![DOI](https://zenodo.org/badge/318934196.svg)](https://zenodo.org/badge/latestdoi/318934196)
+
 ## Purpose
 Currently there is not an efficient method to search <a href="https://anaconda.org/bioconda/repo">bioConda repositories</a> if you are not already familiar with the names of the programs you are looking for. For example, you would easily find the "STAR" alignment package individually; however, may have more difficulty finding all programs availiable in BioConda related to alignment. 
 
